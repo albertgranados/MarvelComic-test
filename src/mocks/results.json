@@ -1,0 +1,2796 @@
+{
+	"code": 200,
+	"status": "Ok",
+	"copyright": "© 2023 MARVEL",
+	"attributionText": "Data provided by Marvel. © 2023 MARVEL",
+	"attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2023 MARVEL</a>",
+	"etag": "5407b16a9465f5533cfd1e69c0dc69bce86b21aa",
+	"data": {
+		"offset": 0,
+		"limit": 20,
+		"total": 107,
+		"count": 20,
+		"results": [
+			{
+				"id": 102260,
+				"digitalId": 62747,
+				"title": "Captain America: Symbol of Truth (2022) #14",
+				"issueNumber": 14,
+				"variantDescription": "",
+				"description": null,
+				"modified": "2023-02-22T09:05:06-0500",
+				"isbn": "",
+				"upc": "75960620279901411",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/102260",
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/102260/captain_america_symbol_of_truth_2022_14?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Captain-America-Symbol-of-Truth-14/digital-comic/62747?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=62747&utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/34023",
+					"name": "Captain America: Symbol of Truth (2022 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [
+					{
+						"type": "onsaleDate",
+						"date": "2023-06-28T00:00:00-0400"
+					},
+					{
+						"type": "focDate",
+						"date": "2023-05-29T00:00:00-0400"
+					},
+					{
+						"type": "unlimitedDate",
+						"date": "2023-06-08T17:07:00-0400"
+					},
+					{
+						"type": "digitalPurchaseDate",
+						"date": "2023-06-08T17:07:00-0400"
+					}
+				],
+				"prices": [
+					{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/6487358bc729d",
+					"extension": "jpg"
+				},
+				"images": [
+					{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/6487358bc729d",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 6,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/102260/creators",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11482",
+							"name": "Jesus Aburtov",
+							"role": "colorist (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+							"name": "Vc Joe Caramagna",
+							"role": "letterer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13898",
+							"name": "Ze Carlos",
+							"role": "inker"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14150",
+							"name": "Tochi Onyebuchi",
+							"role": "writer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12489",
+							"name": "R.B. Silva",
+							"role": "penciler (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13046",
+							"name": "Alanna Smith",
+							"role": "editor"
+						}
+					],
+					"returned": 6
+				},
+				"characters": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/102260/characters",
+					"items": [],
+					"returned": 0
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/102260/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/225621",
+							"name": "cover from Captain America: Symbol of Truth (2022) #14",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/225622",
+							"name": "story from Captain America: Symbol of Truth (2022) #14",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/102260/events",
+					"items": [],
+					"returned": 0
+				}
+			},
+			{
+				"id": 96833,
+				"digitalId": 62784,
+				"title": "Silver Surfer: Ghost Light (2023) #5",
+				"issueNumber": 5,
+				"variantDescription": "",
+				"description": null,
+				"modified": "2023-02-22T09:08:57-0500",
+				"isbn": "",
+				"upc": "75960620224900511",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/96833",
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/96833/silver_surfer_ghost_light_2023_5?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Silver-Surfer-Ghost-Light-5/digital-comic/62784?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=62784&utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/33198",
+					"name": "Silver Surfer: Ghost Light (2023 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [
+					{
+						"type": "onsaleDate",
+						"date": "2023-06-28T00:00:00-0400"
+					},
+					{
+						"type": "focDate",
+						"date": "2023-05-29T00:00:00-0400"
+					},
+					{
+						"type": "unlimitedDate",
+						"date": "2023-06-08T17:08:00-0400"
+					},
+					{
+						"type": "digitalPurchaseDate",
+						"date": "2023-06-08T17:08:00-0400"
+					}
+				],
+				"prices": [
+					{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/6487356f6ef7c",
+					"extension": "jpg"
+				},
+				"images": [
+					{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/6487356f6ef7c",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 6,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/96833/creators",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14111",
+							"name": "Taurin Clarke",
+							"role": "penciler (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14117",
+							"name": "John Jennings",
+							"role": "writer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/778",
+							"name": "Valentine De Landro",
+							"role": "inker"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/1405",
+							"name": "Matt Milla",
+							"role": "colorist"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+							"name": "Vc Joe Sabino",
+							"role": "letterer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13027",
+							"name": "Darren Shan",
+							"role": "editor"
+						}
+					],
+					"returned": 6
+				},
+				"characters": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/96833/characters",
+					"items": [],
+					"returned": 0
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/96833/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/214734",
+							"name": "cover from Silver Surfer: Ghost Light (2022) #5",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/214735",
+							"name": "story from Silver Surfer: Ghost Light (2022) #5",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/96833/events",
+					"items": [],
+					"returned": 0
+				}
+			},
+			{
+				"id": 107120,
+				"digitalId": 62756,
+				"title": "Daredevil & Echo (2023) #2",
+				"issueNumber": 2,
+				"variantDescription": "",
+				"description": null,
+				"modified": "2023-02-22T09:06:04-0500",
+				"isbn": "",
+				"upc": "75960620588200211",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/107120",
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/107120/daredevil_echo_2023_2?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Daredevil-Echo-2/digital-comic/62756?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=62756&utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/36985",
+					"name": "Daredevil & Echo (2023 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [
+					{
+						"type": "onsaleDate",
+						"date": "2023-06-28T00:00:00-0400"
+					},
+					{
+						"type": "focDate",
+						"date": "2023-05-29T00:00:00-0400"
+					},
+					{
+						"type": "unlimitedDate",
+						"date": "2023-06-08T17:08:00-0400"
+					},
+					{
+						"type": "digitalPurchaseDate",
+						"date": "2023-06-08T17:08:00-0400"
+					}
+				],
+				"prices": [
+					{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/e/80/64873574478d4",
+					"extension": "jpg"
+				},
+				"images": [
+					{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/e/80/64873574478d4",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 4,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107120/creators",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13523",
+							"name": "Annalise Bissa",
+							"role": "editor"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+							"name": "Vc Clayton Cowles",
+							"role": "letterer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14058",
+							"name": "B. Earl",
+							"role": "writer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13459",
+							"name": "Phil Noto",
+							"role": "penciler (cover)"
+						}
+					],
+					"returned": 4
+				},
+				"characters": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107120/characters",
+					"items": [],
+					"returned": 0
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107120/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/235352",
+							"name": "cover from Daredevil & Echo (2023) #2",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/235353",
+							"name": "story from Daredevil & Echo (2023) #2",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107120/events",
+					"items": [],
+					"returned": 0
+				}
+			},
+			{
+				"id": 103078,
+				"digitalId": 62793,
+				"title": "Star Wars: Doctor Aphra (2020) #33",
+				"issueNumber": 33,
+				"variantDescription": "",
+				"description": null,
+				"modified": "2023-02-22T09:10:05-0500",
+				"isbn": "",
+				"upc": "75960609724103311",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/103078",
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/103078/star_wars_doctor_aphra_2020_33?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Star-Wars-Doctor-Aphra-33/digital-comic/62793?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=62793&utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/29161",
+					"name": "Star Wars: Doctor Aphra (2020 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [
+					{
+						"type": "onsaleDate",
+						"date": "2023-06-28T00:00:00-0400"
+					},
+					{
+						"type": "focDate",
+						"date": "2023-05-29T00:00:00-0400"
+					},
+					{
+						"type": "unlimitedDate",
+						"date": "2023-06-08T17:09:00-0400"
+					},
+					{
+						"type": "digitalPurchaseDate",
+						"date": "2023-06-08T17:09:00-0400"
+					}
+				],
+				"prices": [
+					{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/6487356f34314",
+					"extension": "jpg"
+				},
+				"images": [
+					{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/6487356f34314",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 6,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/103078/creators",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+							"name": "Vc Joe Caramagna",
+							"role": "letterer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13631",
+							"name": "Minkyu Jung",
+							"role": "inker"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+							"name": "Mark Paniccia",
+							"role": "editor"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12991",
+							"name": "Rachelle Rosenberg",
+							"role": "colorist"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13917",
+							"name": "Alyssa Wong",
+							"role": "writer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12303",
+							"name": "Jung-Geun Yoon",
+							"role": "penciler (cover)"
+						}
+					],
+					"returned": 6
+				},
+				"characters": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/103078/characters",
+					"items": [],
+					"returned": 0
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/103078/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/227259",
+							"name": "cover from Star Wars: Doctor Aphra (2020) #33",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/227260",
+							"name": "story from Star Wars: Doctor Aphra (2020) #33",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/103078/events",
+					"items": [],
+					"returned": 0
+				}
+			},
+			{
+				"id": 102196,
+				"digitalId": 62736,
+				"title": "The Amazing Spider-Man (2022) #28",
+				"issueNumber": 28,
+				"variantDescription": "",
+				"description": null,
+				"modified": "2023-02-22T09:04:24-0500",
+				"isbn": "",
+				"upc": "75960620200302811",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/102196",
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/102196/the_amazing_spider-man_2022_28?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/The-Amazing-Spider-Man-28/digital-comic/62736?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=62736&utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/32866",
+					"name": "The Amazing Spider-Man (2022 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [
+					{
+						"type": "onsaleDate",
+						"date": "2023-06-28T00:00:00-0400"
+					},
+					{
+						"type": "focDate",
+						"date": "2023-05-29T00:00:00-0400"
+					},
+					{
+						"type": "unlimitedDate",
+						"date": "2023-06-08T17:09:00-0400"
+					},
+					{
+						"type": "digitalPurchaseDate",
+						"date": "2023-06-08T17:09:00-0400"
+					}
+				],
+				"prices": [
+					{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/648735ea66f94",
+					"extension": "jpg"
+				},
+				"images": [
+					{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/4/70/648735ea66f94",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 6,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/102196/creators",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+							"name": "Vc Joe Caramagna",
+							"role": "letterer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/440",
+							"name": "Mark Farmer",
+							"role": "inker"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+							"name": "Nick Lowe",
+							"role": "editor"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/649",
+							"name": "Ed Mcguinness",
+							"role": "penciler (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13058",
+							"name": "Marcio Menyz",
+							"role": "colorist (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/10409",
+							"name": "Zeb Wells",
+							"role": "writer"
+						}
+					],
+					"returned": 6
+				},
+				"characters": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/102196/characters",
+					"items": [],
+					"returned": 0
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/102196/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/225493",
+							"name": "cover from The Amazing Spider-Man (2022) #28",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/225494",
+							"name": "story from The Amazing Spider-Man (2022) #28",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/102196/events",
+					"items": [],
+					"returned": 0
+				}
+			},
+			{
+				"id": 102287,
+				"digitalId": 62800,
+				"title": "Thor (2020) #35",
+				"issueNumber": 35,
+				"variantDescription": "",
+				"description": null,
+				"modified": "2023-02-22T09:11:12-0500",
+				"isbn": "",
+				"upc": "75960609539103511",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/102287",
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/102287/thor_2020_35?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Thor-35/digital-comic/62800?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=62800&utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/28031",
+					"name": "Thor (2020 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [
+					{
+						"type": "onsaleDate",
+						"date": "2023-06-28T00:00:00-0400"
+					},
+					{
+						"type": "focDate",
+						"date": "2023-05-29T00:00:00-0400"
+					},
+					{
+						"type": "unlimitedDate",
+						"date": "2023-06-08T17:09:00-0400"
+					},
+					{
+						"type": "digitalPurchaseDate",
+						"date": "2023-06-08T17:09:00-0400"
+					}
+				],
+				"prices": [
+					{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/e/40/64873555722d9",
+					"extension": "jpg"
+				},
+				"images": [
+					{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/e/40/64873555722d9",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 8,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/102287/creators",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14175",
+							"name": "Sergio Davila",
+							"role": "penciler"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12715",
+							"name": "Juan Gedeon",
+							"role": "inker"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13145",
+							"name": "Sean Parsons",
+							"role": "inker"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14017",
+							"name": "Torunn Gronbekk",
+							"role": "writer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/4989",
+							"name": "Nic Klein",
+							"role": "penciler (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+							"name": "Wilson Moss",
+							"role": "editor"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+							"name": "Vc Joe Sabino",
+							"role": "letterer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/10279",
+							"name": "Matthew Wilson",
+							"role": "colorist"
+						}
+					],
+					"returned": 8
+				},
+				"characters": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/102287/characters",
+					"items": [],
+					"returned": 0
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/102287/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/225675",
+							"name": "cover from Thor (2020) #35",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/225676",
+							"name": "story from Thor (2020) #35",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/102287/events",
+					"items": [],
+					"returned": 0
+				}
+			},
+			{
+				"id": 108307,
+				"digitalId": 62740,
+				"title": "Avengers: Beyond (2023) #4",
+				"issueNumber": 4,
+				"variantDescription": "",
+				"description": null,
+				"modified": "2023-02-22T09:04:41-0500",
+				"isbn": "",
+				"upc": "75960620642100411",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/108307",
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/108307/avengers_beyond_2023_4?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Avengers-Beyond-4/digital-comic/62740?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=62740&utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/37251",
+					"name": "Avengers: Beyond (2023 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [
+					{
+						"type": "onsaleDate",
+						"date": "2023-06-28T00:00:00-0400"
+					},
+					{
+						"type": "focDate",
+						"date": "2023-05-29T00:00:00-0400"
+					},
+					{
+						"type": "unlimitedDate",
+						"date": "2023-06-08T17:07:00-0400"
+					},
+					{
+						"type": "digitalPurchaseDate",
+						"date": "2023-06-08T17:07:00-0400"
+					}
+				],
+				"prices": [
+					{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/4/e0/6487358b9ef86",
+					"extension": "jpg"
+				},
+				"images": [
+					{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/4/e0/6487358b9ef86",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 6,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/108307/creators",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+							"name": "Tom Brevoort",
+							"role": "editor"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+							"name": "Frank D'ARMATA",
+							"role": "colorist (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+							"name": "Greg Land",
+							"role": "penciler (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12861",
+							"name": "Derek Landy",
+							"role": "writer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/616",
+							"name": "Jay Leisten",
+							"role": "inker"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+							"name": "Vc Cory Petit",
+							"role": "letterer"
+						}
+					],
+					"returned": 6
+				},
+				"characters": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/108307/characters",
+					"items": [],
+					"returned": 0
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/108307/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/237728",
+							"name": "cover from Avengers: Beyond (2023) #4",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/237729",
+							"name": "story from Avengers: Beyond (2023) #4",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/108307/events",
+					"items": [],
+					"returned": 0
+				}
+			},
+			{
+				"id": 108967,
+				"digitalId": 62811,
+				"title": "X-MEN: BEFORE THE FALL - HERALDS OF APOCALYPSE 1 (2023) #1",
+				"issueNumber": 1,
+				"variantDescription": "",
+				"description": null,
+				"modified": "2023-02-22T09:12:31-0500",
+				"isbn": "",
+				"upc": "75960620659900111",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 40,
+				"textObjects": [],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/108967",
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/108967/x-men_before_the_fall_-_heralds_of_apocalypse_1_2023_1?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/X-MEN-BEFORE-THE-FALL-HERALDS-OF-APOCALYPSE-1-1/digital-comic/62811?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=62811&utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/37413",
+					"name": "X-MEN: BEFORE THE FALL - HERALDS OF APOCALYPSE 1 (2023 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [
+					{
+						"type": "onsaleDate",
+						"date": "2023-06-28T00:00:00-0400"
+					},
+					{
+						"type": "focDate",
+						"date": "2023-05-29T00:00:00-0400"
+					},
+					{
+						"type": "unlimitedDate",
+						"date": "2023-06-08T17:09:00-0400"
+					},
+					{
+						"type": "digitalPurchaseDate",
+						"date": "2023-06-08T17:09:00-0400"
+					}
+				],
+				"prices": [
+					{
+						"type": "printPrice",
+						"price": 4.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/e/20/648735557d830",
+					"extension": "jpg"
+				},
+				"images": [
+					{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/e/20/648735557d830",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 5,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/108967/creators",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12174",
+							"name": "Al Ewing",
+							"role": "writer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/872",
+							"name": "Marte Gracia",
+							"role": "colorist (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/10144",
+							"name": "Pepe Larraz",
+							"role": "penciler (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12488",
+							"name": "Luca Pizzari",
+							"role": "inker"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14311",
+							"name": "Jordan White",
+							"role": "editor"
+						}
+					],
+					"returned": 5
+				},
+				"characters": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/108967/characters",
+					"items": [],
+					"returned": 0
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/108967/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/239052",
+							"name": "cover from X-Men: Before the Fall - Heralds of Apocalypse (2023) #1",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/239053",
+							"name": "story from X-Men: Before the Fall - Heralds of Apocalypse (2023) #1",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/108967/events",
+					"items": [],
+					"returned": 0
+				}
+			},
+			{
+				"id": 104981,
+				"digitalId": 62783,
+				"title": "Silk (2023) #2",
+				"issueNumber": 2,
+				"variantDescription": "",
+				"description": null,
+				"modified": "2023-02-22T09:08:50-0500",
+				"isbn": "",
+				"upc": "75960620510300211",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/104981",
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/104981/silk_2023_2?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Silk-2/digital-comic/62783?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=62783&utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/36339",
+					"name": "Silk (2023 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [
+					{
+						"type": "onsaleDate",
+						"date": "2023-06-28T00:00:00-0400"
+					},
+					{
+						"type": "focDate",
+						"date": "2023-05-29T00:00:00-0400"
+					},
+					{
+						"type": "unlimitedDate",
+						"date": "2023-06-08T17:08:00-0400"
+					},
+					{
+						"type": "digitalPurchaseDate",
+						"date": "2023-06-08T17:08:00-0400"
+					}
+				],
+				"prices": [
+					{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/6487356f8c6bd",
+					"extension": "jpg"
+				},
+				"images": [
+					{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/7/50/6487356f8c6bd",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 6,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/104981/creators",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14137",
+							"name": "Lindsey Cohick",
+							"role": "editor"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/8606",
+							"name": "Ig Guara",
+							"role": "inker"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12996",
+							"name": "Ian Herring",
+							"role": "colorist"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/10432",
+							"name": "Dave Johnson",
+							"role": "penciler (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14320",
+							"name": "Emily Kim",
+							"role": "writer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14075",
+							"name": "Vc Ariana Maher",
+							"role": "letterer"
+						}
+					],
+					"returned": 6
+				},
+				"characters": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/104981/characters",
+					"items": [],
+					"returned": 0
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/104981/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/231070",
+							"name": "cover from Silk (2023) #2",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/231071",
+							"name": "story from Silk (2023) #2",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/104981/events",
+					"items": [],
+					"returned": 0
+				}
+			},
+			{
+				"id": 108982,
+				"digitalId": 62750,
+				"title": "CARNAGE REIGNS OMEGA 1 (2023) #1",
+				"issueNumber": 1,
+				"variantDescription": "",
+				"description": null,
+				"modified": "2023-02-22T09:05:37-0500",
+				"isbn": "",
+				"upc": "75960620666700111",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 40,
+				"textObjects": [],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/108982",
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/108982/carnage_reigns_omega_1_2023_1?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/CARNAGE-REIGNS-OMEGA-1-1/digital-comic/62750?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=62750&utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/37421",
+					"name": "CARNAGE REIGNS OMEGA 1 (2023 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [
+					{
+						"type": "onsaleDate",
+						"date": "2023-06-28T00:00:00-0400"
+					},
+					{
+						"type": "focDate",
+						"date": "2023-05-29T00:00:00-0400"
+					},
+					{
+						"type": "unlimitedDate",
+						"date": "2023-06-08T17:08:00-0400"
+					},
+					{
+						"type": "digitalPurchaseDate",
+						"date": "2023-06-08T17:08:00-0400"
+					}
+				],
+				"prices": [
+					{
+						"type": "printPrice",
+						"price": 4.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/648735e30550a",
+					"extension": "jpg"
+				},
+				"images": [
+					{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/648735e30550a",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 7,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/108982/creators",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/430",
+							"name": "Edgar Delgado",
+							"role": "colorist (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12457",
+							"name": "Edward Devin Lewis",
+							"role": "editor"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13260",
+							"name": "Jp Mayer",
+							"role": "inker (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14313",
+							"name": "Julius Ohta",
+							"role": "inker"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+							"name": "Vc Joe Sabino",
+							"role": "letterer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/1156",
+							"name": "Ryan Stegman",
+							"role": "penciler (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14219",
+							"name": "Cody Ziglar",
+							"role": "writer"
+						}
+					],
+					"returned": 7
+				},
+				"characters": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/108982/characters",
+					"items": [],
+					"returned": 0
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/108982/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/239084",
+							"name": "cover from Carnage/Miles Morales Omega (2023) #1",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/239085",
+							"name": "story from Carnage/Miles Morales Omega (2023) #1",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/108982/events",
+					"items": [],
+					"returned": 0
+				}
+			},
+			{
+				"id": 107502,
+				"digitalId": 62792,
+				"title": "Star Wars: Darth Vader - Black, White & Red (2023) #3",
+				"issueNumber": 3,
+				"variantDescription": "",
+				"description": null,
+				"modified": "2023-02-22T09:09:59-0500",
+				"isbn": "",
+				"upc": "75960620584400311",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 40,
+				"textObjects": [],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/107502",
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/107502/star_wars_darth_vader_-_black_white_red_2023_3?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Star-Wars-Darth-Vader-Black-White-Red-3/digital-comic/62792?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=62792&utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/37067",
+					"name": "Star Wars: Darth Vader - Black, White & Red (2023 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [
+					{
+						"type": "onsaleDate",
+						"date": "2023-06-28T00:00:00-0400"
+					},
+					{
+						"type": "focDate",
+						"date": "2023-05-29T00:00:00-0400"
+					},
+					{
+						"type": "unlimitedDate",
+						"date": "2023-06-08T17:08:00-0400"
+					},
+					{
+						"type": "digitalPurchaseDate",
+						"date": "2023-06-08T17:08:00-0400"
+					}
+				],
+				"prices": [
+					{
+						"type": "printPrice",
+						"price": 4.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/648735557d853",
+					"extension": "jpg"
+				},
+				"images": [
+					{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/e/70/648735557d853",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 8,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107502/creators",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11463",
+							"name": "Jason Aaron",
+							"role": "writer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14149",
+							"name": "Marc Bernadin",
+							"role": "writer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+							"name": "Vc Joe Caramagna",
+							"role": "letterer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13250",
+							"name": "Romulo Fajardo Jr.",
+							"role": "colorist"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13056",
+							"name": "Daniel Warren Johnson",
+							"role": "colorist"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/820",
+							"name": "Leonard Kirk",
+							"role": "inker"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11309",
+							"name": "Mike Del Mundo",
+							"role": "penciler (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+							"name": "Mark Paniccia",
+							"role": "editor"
+						}
+					],
+					"returned": 8
+				},
+				"characters": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107502/characters",
+					"items": [],
+					"returned": 0
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107502/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/236117",
+							"name": "cover from Star Wars: Darth Vader - Black, White & Red (2023) #3",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/236118",
+							"name": "story from Star Wars: Darth Vader - Black, White & Red (2023) #3",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107502/events",
+					"items": [],
+					"returned": 0
+				}
+			},
+			{
+				"id": 93035,
+				"digitalId": 62757,
+				"title": "Deadpool (2022) #8",
+				"issueNumber": 8,
+				"variantDescription": "",
+				"description": null,
+				"modified": "2023-02-22T09:06:09-0500",
+				"isbn": "",
+				"upc": "75960620089400811",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/93035",
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/93035/deadpool_2022_8?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Deadpool-8/digital-comic/62757?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=62757&utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/31812",
+					"name": "Deadpool (2022 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [
+					{
+						"type": "onsaleDate",
+						"date": "2023-06-28T00:00:00-0400"
+					},
+					{
+						"type": "focDate",
+						"date": "2023-05-29T00:00:00-0400"
+					},
+					{
+						"type": "unlimitedDate",
+						"date": "2023-06-08T17:08:00-0400"
+					},
+					{
+						"type": "digitalPurchaseDate",
+						"date": "2023-06-08T17:08:00-0400"
+					}
+				],
+				"prices": [
+					{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/64873570c6adc",
+					"extension": "jpg"
+				},
+				"images": [
+					{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/6/a0/64873570c6adc",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 6,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/93035/creators",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14285",
+							"name": "Martin Coccolo",
+							"role": "penciler (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13675",
+							"name": "Neeraj Menon",
+							"role": "colorist (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+							"name": "Vc Joe Sabino",
+							"role": "letterer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14311",
+							"name": "Jordan White",
+							"role": "editor"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13917",
+							"name": "Alyssa Wong",
+							"role": "writer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14367",
+							"name": "Luigi Zagaria",
+							"role": "inker"
+						}
+					],
+					"returned": 6
+				},
+				"characters": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/93035/characters",
+					"items": [],
+					"returned": 0
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/93035/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/207182",
+							"name": "cover from Deadpool (2029) #8",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/207183",
+							"name": "story from Deadpool (2029) #8",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/93035/events",
+					"items": [],
+					"returned": 0
+				}
+			},
+			{
+				"id": 106820,
+				"digitalId": 62734,
+				"title": "Alien (2023) #3",
+				"issueNumber": 3,
+				"variantDescription": "",
+				"description": null,
+				"modified": "2023-02-22T09:04:12-0500",
+				"isbn": "",
+				"upc": "75960620599800311",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/106820",
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/106820/alien_2023_3?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Alien-3/digital-comic/62734?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=62734&utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/36862",
+					"name": "Alien (2023 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [
+					{
+						"type": "onsaleDate",
+						"date": "2023-06-28T00:00:00-0400"
+					},
+					{
+						"type": "focDate",
+						"date": "2023-05-29T00:00:00-0400"
+					},
+					{
+						"type": "unlimitedDate",
+						"date": "2023-06-08T17:07:00-0400"
+					},
+					{
+						"type": "digitalPurchaseDate",
+						"date": "2023-06-08T17:07:00-0400"
+					}
+				],
+				"prices": [
+					{
+						"type": "printPrice",
+						"price": 4.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/1/e0/6487358f4f893",
+					"extension": "jpg"
+				},
+				"images": [
+					{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/1/e0/6487358f4f893",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 7,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/106820/creators",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12815",
+							"name": "Andrea Broccardo",
+							"role": "inker"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13200",
+							"name": "Sarah Brunstad",
+							"role": "editor"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+							"name": "Vc Joe Caramagna",
+							"role": "letterer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13518",
+							"name": "Triona Farrell",
+							"role": "colorist"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13932",
+							"name": "Dike Ruan",
+							"role": "penciler (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11354",
+							"name": "Declan Shalvey",
+							"role": "writer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/10279",
+							"name": "Matthew Wilson",
+							"role": "colorist (cover)"
+						}
+					],
+					"returned": 7
+				},
+				"characters": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/106820/characters",
+					"items": [],
+					"returned": 0
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/106820/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/234752",
+							"name": "cover from Alien (2023) #3",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/234753",
+							"name": "story from Alien (2023) #3",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/106820/events",
+					"items": [],
+					"returned": 0
+				}
+			},
+			{
+				"id": 107585,
+				"digitalId": 62798,
+				"title": "Storm (2023) #2",
+				"issueNumber": 2,
+				"variantDescription": "",
+				"description": null,
+				"modified": "2023-02-22T09:11:06-0500",
+				"isbn": "",
+				"upc": "759606206101000211",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/107585",
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/107585/storm_2023_2?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Storm-2/digital-comic/62798?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=62798&utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/37083",
+					"name": "Storm (2023 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [
+					{
+						"type": "onsaleDate",
+						"date": "2023-06-28T00:00:00-0400"
+					},
+					{
+						"type": "focDate",
+						"date": "2023-05-29T00:00:00-0400"
+					},
+					{
+						"type": "unlimitedDate",
+						"date": "2023-06-08T17:09:00-0400"
+					},
+					{
+						"type": "digitalPurchaseDate",
+						"date": "2023-06-08T17:09:00-0400"
+					}
+				],
+				"prices": [
+					{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/e/a0/6487355578e55",
+					"extension": "jpg"
+				},
+				"images": [
+					{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/e/a0/6487355578e55",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 7,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107585/creators",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12313",
+							"name": "Mark Basso",
+							"role": "editor"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11465",
+							"name": "Andrew Dalhouse",
+							"role": "colorist"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/16",
+							"name": "Alan Davis",
+							"role": "penciler (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14066",
+							"name": "Sid Kotian",
+							"role": "inker"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14075",
+							"name": "Vc Ariana Maher",
+							"role": "letterer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/215",
+							"name": "Ann Nocenti",
+							"role": "writer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14157",
+							"name": "Alejandro Sanchez",
+							"role": "colorist (cover)"
+						}
+					],
+					"returned": 7
+				},
+				"characters": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107585/characters",
+					"items": [],
+					"returned": 0
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107585/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/236283",
+							"name": "cover from Storm (2023) #2",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/236284",
+							"name": "story from Storm (2023) #2",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107585/events",
+					"items": [],
+					"returned": 0
+				}
+			},
+			{
+				"id": 107960,
+				"digitalId": 62738,
+				"title": "AMAZING SPIDER-MAN 122 FACSIMILE EDITION (2023) #122",
+				"issueNumber": 122,
+				"variantDescription": "",
+				"description": null,
+				"modified": "2023-02-22T09:04:32-0500",
+				"isbn": "",
+				"upc": "75960620629200111",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/107960",
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/107960/amazing_spider-man_122_facsimile_edition_2023_122?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/AMAZING-SPIDER-MAN-122-FACSIMILE-EDITION-122/digital-comic/62738?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=62738&utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/37187",
+					"name": "AMAZING SPIDER-MAN 122 FACSIMILE EDITION (2023 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [
+					{
+						"type": "onsaleDate",
+						"date": "2023-06-28T00:00:00-0400"
+					},
+					{
+						"type": "focDate",
+						"date": "2023-05-29T00:00:00-0400"
+					},
+					{
+						"type": "unlimitedDate",
+						"date": "2023-06-08T17:07:00-0400"
+					},
+					{
+						"type": "digitalPurchaseDate",
+						"date": "2023-06-08T17:07:00-0400"
+					}
+				],
+				"prices": [
+					{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/648736be7e690",
+					"extension": "jpg"
+				},
+				"images": [
+					{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/648736be7e690",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 6,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107960/creators",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/954",
+							"name": "Gerry Conway",
+							"role": "writer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13094",
+							"name": "Dave Hunt",
+							"role": "colorist"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/148",
+							"name": "Gil Kane",
+							"role": "penciler"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13272",
+							"name": "John Romita Sr.",
+							"role": "inker"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13093",
+							"name": "Art Simek",
+							"role": "letterer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+							"name": "Jeff Youngquist",
+							"role": "editor"
+						}
+					],
+					"returned": 6
+				},
+				"characters": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107960/characters",
+					"items": [],
+					"returned": 0
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107960/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/237033",
+							"name": "cover from Amazing Spider-Man 122 Facsimile Edition (2023) #1",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/237034",
+							"name": "story from Amazing Spider-Man 122 Facsimile Edition (2023) #1",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107960/events",
+					"items": [],
+					"returned": 0
+				}
+			},
+			{
+				"id": 106815,
+				"digitalId": 62805,
+				"title": "Warlock: Rebirth (2023) #3",
+				"issueNumber": 3,
+				"variantDescription": "",
+				"description": null,
+				"modified": "2023-02-22T09:11:51-0500",
+				"isbn": "",
+				"upc": "75960620589900311",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/106815",
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/106815/warlock_rebirth_2023_3?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Warlock-Rebirth-3/digital-comic/62805?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=62805&utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/36860",
+					"name": "Warlock: Rebirth (2023 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [
+					{
+						"type": "onsaleDate",
+						"date": "2023-06-28T00:00:00-0400"
+					},
+					{
+						"type": "focDate",
+						"date": "2023-05-29T00:00:00-0400"
+					},
+					{
+						"type": "unlimitedDate",
+						"date": "2023-06-08T17:09:00-0400"
+					},
+					{
+						"type": "digitalPurchaseDate",
+						"date": "2023-06-08T17:09:00-0400"
+					}
+				],
+				"prices": [
+					{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/e/80/6487355556c86",
+					"extension": "jpg"
+				},
+				"images": [
+					{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/e/80/6487355556c86",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 6,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/106815/creators",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13250",
+							"name": "Romulo Fajardo Jr.",
+							"role": "colorist (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/11483",
+							"name": "Don Ho",
+							"role": "inker (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/658",
+							"name": "Ron Lim",
+							"role": "penciler (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/2673",
+							"name": "Ron Marz",
+							"role": "writer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+							"name": "Vc Joe Sabino",
+							"role": "letterer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13027",
+							"name": "Darren Shan",
+							"role": "editor"
+						}
+					],
+					"returned": 6
+				},
+				"characters": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/106815/characters",
+					"items": [],
+					"returned": 0
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/106815/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/234742",
+							"name": "cover from Adam Warlock (2023) #3",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/234743",
+							"name": "story from Adam Warlock (2023) #3",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/106815/events",
+					"items": [],
+					"returned": 0
+				}
+			},
+			{
+				"id": 107444,
+				"digitalId": 62782,
+				"title": "She-Hulk (2022) #14",
+				"issueNumber": 14,
+				"variantDescription": "",
+				"description": null,
+				"modified": "2023-02-22T09:08:47-0500",
+				"isbn": "",
+				"upc": "75960620084901411",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/107444",
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/107444/she-hulk_2022_14?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/She-Hulk-14/digital-comic/62782?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=62782&utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/31717",
+					"name": "She-Hulk (2022 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [
+					{
+						"type": "onsaleDate",
+						"date": "2023-06-28T00:00:00-0400"
+					},
+					{
+						"type": "focDate",
+						"date": "2023-05-29T00:00:00-0400"
+					},
+					{
+						"type": "unlimitedDate",
+						"date": "2023-06-08T17:08:00-0400"
+					},
+					{
+						"type": "digitalPurchaseDate",
+						"date": "2023-06-08T17:08:00-0400"
+					}
+				],
+				"prices": [
+					{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/e/20/648735738733a",
+					"extension": "jpg"
+				},
+				"images": [
+					{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/e/20/648735738733a",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 5,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107444/creators",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13069",
+							"name": "Jen Bartel",
+							"role": "penciler (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+							"name": "Vc Joe Caramagna",
+							"role": "letterer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13559",
+							"name": "Andres Genolet",
+							"role": "inker"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+							"name": "Nick Lowe",
+							"role": "editor"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13154",
+							"name": "Rainbow Rowell",
+							"role": "writer"
+						}
+					],
+					"returned": 5
+				},
+				"characters": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107444/characters",
+					"items": [],
+					"returned": 0
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107444/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/236001",
+							"name": "cover from She-Hulk (2022) #14",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/236002",
+							"name": "story from She-Hulk (2022) #14",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107444/events",
+					"items": [],
+					"returned": 0
+				}
+			},
+			{
+				"id": 107239,
+				"digitalId": 62766,
+				"title": "Hallows' Eve (2023) #4",
+				"issueNumber": 4,
+				"variantDescription": "",
+				"description": null,
+				"modified": "2023-02-22T09:06:55-0500",
+				"isbn": "",
+				"upc": "75960620583700411",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/107239",
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/107239/hallows_eve_2023_4?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Hallows-Eve-4/digital-comic/62766?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=62766&utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/37015",
+					"name": "Hallows' Eve (2023 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [
+					{
+						"type": "onsaleDate",
+						"date": "2023-06-21T00:00:00-0400"
+					},
+					{
+						"type": "focDate",
+						"date": "2023-05-22T00:00:00-0400"
+					},
+					{
+						"type": "unlimitedDate",
+						"date": "2023-06-02T15:55:00-0400"
+					},
+					{
+						"type": "digitalPurchaseDate",
+						"date": "2023-06-02T15:55:00-0400"
+					}
+				],
+				"prices": [
+					{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+					"extension": "jpg"
+				},
+				"images": [
+					{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/648735c813f7c",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 5,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107239/creators",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+							"name": "Vc Joe Caramagna",
+							"role": "letterer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13651",
+							"name": "Michael Dowling",
+							"role": "penciler (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/774",
+							"name": "Morry Hollowell",
+							"role": "colorist (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/4300",
+							"name": "Nick Lowe",
+							"role": "editor"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14377",
+							"name": "Erica Schultz",
+							"role": "writer"
+						}
+					],
+					"returned": 5
+				},
+				"characters": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107239/characters",
+					"items": [],
+					"returned": 0
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107239/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/235590",
+							"name": "cover from Hallows' Eve (2023) #4",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/235591",
+							"name": "story from Hallows' Eve (2023) #4",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/107239/events",
+					"items": [],
+					"returned": 0
+				}
+			},
+			{
+				"id": 101514,
+				"digitalId": 62739,
+				"title": "Avengers (2023) #2",
+				"issueNumber": 2,
+				"variantDescription": "",
+				"description": null,
+				"modified": "2023-02-22T09:04:33-0500",
+				"isbn": "",
+				"upc": "75960620426700211",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/101514",
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/101514/avengers_2023_2?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/Avengers-2/digital-comic/62739?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=62739&utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/34716",
+					"name": "Avengers (2023 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [
+					{
+						"type": "onsaleDate",
+						"date": "2023-06-21T00:00:00-0400"
+					},
+					{
+						"type": "focDate",
+						"date": "2023-05-22T00:00:00-0400"
+					},
+					{
+						"type": "unlimitedDate",
+						"date": "2023-06-02T15:53:00-0400"
+					},
+					{
+						"type": "digitalPurchaseDate",
+						"date": "2023-06-02T15:53:00-0400"
+					}
+				],
+				"prices": [
+					{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/648735f00e1b0",
+					"extension": "jpg"
+				},
+				"images": [
+					{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/648735f00e1b0",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 6,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/101514/creators",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13180",
+							"name": "Federico Blee",
+							"role": "colorist"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+							"name": "Tom Brevoort",
+							"role": "editor"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/192",
+							"name": "Stuart Immonen",
+							"role": "penciler (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13471",
+							"name": "Jed Mackay",
+							"role": "writer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/12980",
+							"name": "Vc Cory Petit",
+							"role": "letterer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/13276",
+							"name": "C.F. Villa",
+							"role": "inker"
+						}
+					],
+					"returned": 6
+				},
+				"characters": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/101514/characters",
+					"items": [],
+					"returned": 0
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/101514/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/224129",
+							"name": "cover from Avengers (2023) #2",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/224130",
+							"name": "story from Avengers (2023) #2",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/101514/events",
+					"items": [],
+					"returned": 0
+				}
+			},
+			{
+				"id": 103951,
+				"digitalId": 62768,
+				"title": "I Am Iron Man (2023) #4",
+				"issueNumber": 4,
+				"variantDescription": "",
+				"description": null,
+				"modified": "2023-02-22T09:07:03-0500",
+				"isbn": "",
+				"upc": "75960620491500411",
+				"diamondCode": "",
+				"ean": "",
+				"issn": "",
+				"format": "Comic",
+				"pageCount": 32,
+				"textObjects": [],
+				"resourceURI": "http://gateway.marvel.com/v1/public/comics/103951",
+				"urls": [
+					{
+						"type": "detail",
+						"url": "http://marvel.com/comics/issue/103951/i_am_iron_man_2023_4?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "purchase",
+						"url": "http://comicstore.marvel.com/I-Am-Iron-Man-4/digital-comic/62768?utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					},
+					{
+						"type": "reader",
+						"url": "http://marvel.com/digitalcomics/view.htm?iid=62768&utm_campaign=apiRef&utm_source=003ac6225c08493c5e05cf0da76e2fb7"
+					}
+				],
+				"series": {
+					"resourceURI": "http://gateway.marvel.com/v1/public/series/35713",
+					"name": "I Am Iron Man (2023 - Present)"
+				},
+				"variants": [],
+				"collections": [],
+				"collectedIssues": [],
+				"dates": [
+					{
+						"type": "onsaleDate",
+						"date": "2023-06-21T00:00:00-0400"
+					},
+					{
+						"type": "focDate",
+						"date": "2023-05-22T00:00:00-0400"
+					},
+					{
+						"type": "unlimitedDate",
+						"date": "2023-06-02T15:55:00-0400"
+					},
+					{
+						"type": "digitalPurchaseDate",
+						"date": "2023-06-02T15:55:00-0400"
+					}
+				],
+				"prices": [
+					{
+						"type": "printPrice",
+						"price": 3.99
+					}
+				],
+				"thumbnail": {
+					"path": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/648735ae46197",
+					"extension": "jpg"
+				},
+				"images": [
+					{
+						"path": "http://i.annihil.us/u/prod/marvel/i/mg/1/30/648735ae46197",
+						"extension": "jpg"
+					}
+				],
+				"creators": {
+					"available": 4,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/103951/creators",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14369",
+							"name": "Dotun Akande",
+							"role": "penciler (cover)"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/14370",
+							"name": "Murewa Ayodele",
+							"role": "writer"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+							"name": "Tom Brevoort",
+							"role": "editor"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+							"name": "Vc Joe Caramagna",
+							"role": "letterer"
+						}
+					],
+					"returned": 4
+				},
+				"characters": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/103951/characters",
+					"items": [],
+					"returned": 0
+				},
+				"stories": {
+					"available": 2,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/103951/stories",
+					"items": [
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/229005",
+							"name": "cover from Untold Tales of Iron Man (2023) #4",
+							"type": "cover"
+						},
+						{
+							"resourceURI": "http://gateway.marvel.com/v1/public/stories/229006",
+							"name": "story from Untold Tales of Iron Man (2023) #4",
+							"type": "interiorStory"
+						}
+					],
+					"returned": 2
+				},
+				"events": {
+					"available": 0,
+					"collectionURI": "http://gateway.marvel.com/v1/public/comics/103951/events",
+					"items": [],
+					"returned": 0
+				}
+			}
+		]
+	}
+}

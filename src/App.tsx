@@ -1,21 +1,19 @@
 import { Route } from 'wouter'
-
-import HomeScreen from './screens/HomeScreen';
+import ComicsScreen from './screens/ComicsScreen'
 
 export default function App() {
   return (
-    <>
-      <header>
-        
-      </header>
+    <div className="bg-white">
+      <header></header>
       <main>
         <Route path="/">
-          <HomeScreen />
+          <ComicsScreen />
+        </Route>
+        <Route path="/comics/p/:page">
+          {(params) => <ComicsScreen page={params.page} />}
         </Route>
       </main>
-      <footer>
-
-      </footer>
-    </>
-  );
+      <footer></footer>
+    </div>
+  )
 }

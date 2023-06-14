@@ -5,7 +5,11 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      aspectRatio: {
+        'ratio-comic': '553 / 850'
+      }
+    }
   },
   plugins: [],
 }
