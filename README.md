@@ -16,18 +16,19 @@ To run the program, follow these steps:
 1. Clone the repository from GitHub.
 2. Open a terminal in the project's root folder.
 3. Run the following command to install the dependencies:
+4. Make sure you have the .env file in the project's root directory with the necessary configuration.
 
 ````bash
 npm install
 ````
 
-4. Then, run the following command to start the application:
+5. Then, run the following command to start the application:
 
 ```bash
 npm run dev
 ```
 
-5. The application will open in the browser and will be ready for use.
+6. The application will open in the browser and will be ready for use.
 
 ## Development Notes
 - The project has been developed using React and TypeScript, and Vite has been used as the build and development tool.
